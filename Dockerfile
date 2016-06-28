@@ -1,4 +1,4 @@
-FROOM alpine:edge
+FROM alpine:edge
 
 RUN \
 	mkdir -p /aws && \
